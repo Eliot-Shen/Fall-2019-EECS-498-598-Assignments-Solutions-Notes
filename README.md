@@ -1,5 +1,5 @@
 # Fall-2019-EECS-498-598-Assignments-Solutions
-Personal Assignments solutions for Umich EECS 498/598 Fall 2019 (Keep updating...) \
+Personal solutions for Umich EECS 498/598 Fall 2019 Assignments(Keep updating...) \
 为部分答案添加了中文注释
 
 课程名：Umich EECS 498/598 Deep Learning for Computer Vision \
